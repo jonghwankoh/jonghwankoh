@@ -54,6 +54,6 @@
 
 ## 🧠 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jonghwankoh)](https://solved.ac/jonghwankoh)
-- 삼성 SW 역량테스트 B형 (2025)
+- 삼성 SW 역량테스트 B형 취득 (2025)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=9ED5FF&height=200&section=footer)
