@@ -51,6 +51,7 @@
 ## 🏅 Certifications
 - 정보처리기사 (2025)
 - SQLD (2025)
+- TOPCIT 수준 4 (2025)
 
 ## 🧠 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jonghwankoh)](https://solved.ac/jonghwankoh)
