@@ -6,9 +6,6 @@
 
 🧠 *I'm currently focusing on **performance testing** and **monitoring** for my [side project](https://github.com/qwerty-sc25/avalon).*
 
-![Jonghwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghwankoh&show_icons=true&theme=transparent)
-
-
 ## 🛠️ Tech Stacks
 
 <p> 
